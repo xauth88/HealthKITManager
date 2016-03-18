@@ -3,7 +3,6 @@
 //  MyHealthKitProj
 //
 //  Created by Tereshkin Sergey on 10/02/15.
-//  Copyright (c) 2015 App To You. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
